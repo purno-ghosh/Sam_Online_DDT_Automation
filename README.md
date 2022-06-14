@@ -1,5 +1,5 @@
 # Sam_Online_DDT_Automation
-Web-automation test project , TestNG, In this project work with Selenium Web-Driver, Page object Model (POM), DDTJson,
+Web-automation test project , TestNG, In this project work with Selenium Web-Driver, Page object Model (POM), DDT, Json,
  using java language.
 
 the website link is https://sam.rultest2.com/
